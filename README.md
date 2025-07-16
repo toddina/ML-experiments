@@ -44,12 +44,12 @@ Install the required dependencies with:
 pip install -r requirements.txt
 ```
 
-📌 Notes
+## 📌 Notes
 All notebooks are self-contained and runnable independently.
 
 Datasets used are either public or included in the notebook code via download links or sklearn datasets.
 
-🧠 Topics Covered
+## 🧠 Topics Covered
 Linear & Polynomial Regression
 
 Decision Trees, Random Forests
@@ -58,9 +58,9 @@ Logistic Regression, SVMs, k-NN
 
 K-Means Clustering and more
 
-📬 Contributions
+## 📬 Contributions
 Feel free to fork the repo and submit pull requests for improvements or new experiments.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
