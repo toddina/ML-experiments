@@ -1,4 +1,4 @@
-# machine-learning-lab
+# ML-experiments
 
 This repository contains a collection of Jupyter notebooks demonstrating various machine learning algorithms applied to different datasets. The experiments are organized by problem type into three main categories:
 
