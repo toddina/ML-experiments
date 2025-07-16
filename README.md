@@ -17,17 +17,17 @@ Each notebook contains:
 ## 📂 Project Structure
 
 <pre>
-notebooks\
+notebooks
 │
-├── regression\
+├── regression
 │ ├── medical_insurance_modeling.ipynb
 │ └── ...
 │
-├── classification\
+├── classification
 │ ├── airline_passenger_satisfaction_modeling.ipynb
 │ └── ...
 │
-└── clustering\
+└── clustering
   ├── ...
   └── ...
 </pre>
