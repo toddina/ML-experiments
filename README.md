@@ -16,7 +16,7 @@ Each notebook contains:
 
 ## 📂 Project Structure
 
-<pre> ```text
+<pre>
 notebooks\
 │
 ├── regression\
@@ -30,7 +30,7 @@ notebooks\
 └── clustering\
   ├── ...
   └── ...
-``` </pre>
+</pre>
 
 ---
 
